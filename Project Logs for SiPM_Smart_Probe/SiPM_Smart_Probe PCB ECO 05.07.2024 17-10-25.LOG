@@ -1,0 +1,15 @@
+Added Component: Designator=U1(MSOP-8)
+Add component (AddParameter): Name = "Distributor"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = "https://cz.mouser.com/ProductDetail/Microchip-Technology/24LC014H-I-MS?qs=hH%252BOa0VZEiBOWodxna96qw%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MSOP-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "24LC014H-I/MS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADD0 Pin=U1-1
+Added Pin To Net: NetName=ADD1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=I2C_SDA Pin=U1-5
+Added Pin To Net: NetName=I2C_SCL Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=+3V3 Pin=U1-8
+Added Member To Class: ClassName=SiPM_Smart_Probe Member=Component U1 24LC014H-I/MS
