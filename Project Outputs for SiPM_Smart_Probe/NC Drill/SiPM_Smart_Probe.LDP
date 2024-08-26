@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\AltiumProjects\SiPM_Smart_Probe\SiPM_Smart_Probe.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=sipm_smart_probe-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=sipm_smart_probe-nonplated.txt|DrillLayers=gtl,gbl
